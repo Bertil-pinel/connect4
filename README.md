@@ -13,3 +13,7 @@ Prequisite: VSC's extension live Server.
 4. Game will open in your favorite browser !
 5. Enjoy the game !
 
+## Tests Setup
+Prequisite : Jest
+1. open a terminal in the project folder
+2. enter the following command : npm run test
